@@ -1,7 +1,5 @@
 # DSC 340 – Project 2: Model Comparison
 
-**David Almona · DSC 340: Applied Machine Learning · Spring 2026**
-
 Compare five scikit-learn classifiers across two datasets using `Pipeline` and `GridSearchCV`.
 
 ---
